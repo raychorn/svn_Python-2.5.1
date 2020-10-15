@@ -1,0 +1,35 @@
+*** Installation started 2007/09/13 17:12 ***
+Source: Z:\@myFiles\Python wsgiserialize 0.3 (Serialization Support for XML,YaML, JSON...)\wsgiserialize-0.3.win32.exe
+999 Root Key: HKEY_CURRENT_USER
+020 Reg DB Key: [Software\Microsoft\Windows\CurrentVersion\Uninstall]wsgiserialize-py2.5
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\wsgiserialize-py2.5]DisplayName=Python 2.5 wsgiserialize-0.3
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\wsgiserialize-py2.5]UninstallString="C:\Python25\Removewsgiserialize.exe" -u "C:\Python25\wsgiserialize-wininst.log"
+100 Made Dir: C:\Python25\Lib\site-packages\wsgiserialize
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\cpickler.py
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\json.py
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\marshaller.py
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\pickler.py
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\xmlrpc.py
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\yamlize.py
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\__init__.py
+100 Made Dir: C:\Python25\Lib\site-packages\wsgiserialize-0.3-py2.5.egg-info
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize-0.3-py2.5.egg-info\dependency_links.txt
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize-0.3-py2.5.egg-info\PKG-INFO
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize-0.3-py2.5.egg-info\requires.txt
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize-0.3-py2.5.egg-info\SOURCES.txt
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize-0.3-py2.5.egg-info\top_level.txt
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize-0.3-py2.5.egg-info\zip-safe
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\__init__.pyc
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\yamlize.pyc
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\xmlrpc.pyc
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\pickler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\marshaller.pyc
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\json.pyc
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\cpickler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\__init__.pyo
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\yamlize.pyo
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\xmlrpc.pyo
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\pickler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\marshaller.pyo
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\json.pyo
+200 File Copy: C:\Python25\Lib\site-packages\wsgiserialize\cpickler.pyo

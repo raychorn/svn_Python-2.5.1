@@ -1,0 +1,42 @@
+Metadata-Version: 1.0
+Name: wsgiserialize
+Version: 0.3
+Summary: Simple object serialization middleware for WSGI.
+Home-page: UNKNOWN
+Author: L. C. Rees
+Author-email: lcrees@gmail.com
+License: BSD
+Description: Simple object serialization middleware for WSGI.
+        Object serialization formats include:
+        
+        * XML-RPC
+        * JSON
+        * YaML
+        * marshal
+        * pickle
+        * cPickle
+        
+        # Sample usage:
+        
+        from wsgiserializer.jsonize import jsonize
+        
+        @jsonize
+        def simple_app(environ, start_response):
+        start_response('200 OK', [('Content-type','text/plain')])
+        return {'test':'Hello world!
+        '}
+        
+        if __name__ == '__main__':
+        from wsgiref.simple_server import make_server
+        http = make_server('', 8080, simple_app)
+        http.serve_forever()
+Keywords: WSGI JSON YaML pickle cPickle marshal XML-RPC serialization
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Middleware

@@ -1,0 +1,17 @@
+ez_setup.py
+setup.py
+wsgiserialize/__init__.py
+wsgiserialize/cpickler.py
+wsgiserialize/json.py
+wsgiserialize/marshaller.py
+wsgiserialize/pickler.py
+wsgiserialize/xmlrpc.py
+wsgiserialize/yamlize.py
+wsgiserialize.egg-info/PKG-INFO
+wsgiserialize.egg-info/SOURCES.txt
+wsgiserialize.egg-info/dependency_links.txt
+wsgiserialize.egg-info/requires.txt
+wsgiserialize.egg-info/top_level.txt
+wsgiserialize.egg-info/zip-safe
+wsgiserialize/tests/__init__.py
+wsgiserialize/tests/test_wsgiserialize.py

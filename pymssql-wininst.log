@@ -1,0 +1,12 @@
+*** Installation started 2007/08/31 16:00 ***
+Source: Z:\@myFiles\Python pymssql - Simple MSSQL Python extension module\pymssql-0.8.0.win32-py2.5.exe
+999 Root Key: HKEY_CURRENT_USER
+020 Reg DB Key: [Software\Microsoft\Windows\CurrentVersion\Uninstall]pymssql-py2.5
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\pymssql-py2.5]DisplayName=Python 2.5 pymssql-0.8.0
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\pymssql-py2.5]UninstallString="C:\Python25\Removepymssql.exe" -u "C:\Python25\pymssql-wininst.log"
+200 File Copy: C:\Python25\LIB\site-packages\ntwdblib.dll
+200 File Copy: C:\Python25\Lib\site-packages\pymssql-0.8.0-py2.5.egg-info
+200 File Copy: C:\Python25\Lib\site-packages\pymssql.py
+200 File Copy: C:\Python25\Lib\site-packages\_mssql.pyd
+200 File Copy: C:\Python25\Lib\site-packages\pymssql.pyc
+200 File Copy: C:\Python25\Lib\site-packages\pymssql.pyo

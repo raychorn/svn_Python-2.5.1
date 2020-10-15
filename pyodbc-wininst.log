@@ -1,0 +1,8 @@
+*** Installation started 2007/09/04 10:32 ***
+Source: Z:\@myFiles\Python pyodbc - A Python DB API module for ODBC\pyodbc-2.0.38.win32-py2.5.exe
+999 Root Key: HKEY_CURRENT_USER
+020 Reg DB Key: [Software\Microsoft\Windows\CurrentVersion\Uninstall]pyodbc-py2.5
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\pyodbc-py2.5]DisplayName=Python 2.5 pyodbc-2.0.38
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\pyodbc-py2.5]UninstallString="C:\Python25\Removepyodbc.exe" -u "C:\Python25\pyodbc-wininst.log"
+200 File Copy: C:\Python25\Lib\site-packages\pyodbc-2.0.38-py2.5.egg-info
+200 File Copy: C:\Python25\Lib\site-packages\pyodbc.pyd

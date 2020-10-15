@@ -1,0 +1,30 @@
+*** Installation started 2007/09/24 10:13 ***
+Source: Z:\@myFiles\Python Psyco - Python Optimizer\psyco-1.5.2.win32-py2.5.exe
+999 Root Key: HKEY_CURRENT_USER
+020 Reg DB Key: [Software\Microsoft\Windows\CurrentVersion\Uninstall]psyco-py2.5
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\psyco-py2.5]DisplayName=Python 2.5 psyco-1.5.2
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\psyco-py2.5]UninstallString="C:\Python25\Removepsyco.exe" -u "C:\Python25\psyco-wininst.log"
+200 File Copy: C:\Python25\Lib\site-packages\psyco-1.5.2-py2.5.egg-info
+100 Made Dir: C:\Python25\Lib\site-packages\psyco
+200 File Copy: C:\Python25\Lib\site-packages\psyco\classes.py
+200 File Copy: C:\Python25\Lib\site-packages\psyco\core.py
+200 File Copy: C:\Python25\Lib\site-packages\psyco\kdictproxy.py
+200 File Copy: C:\Python25\Lib\site-packages\psyco\logger.py
+200 File Copy: C:\Python25\Lib\site-packages\psyco\profiler.py
+200 File Copy: C:\Python25\Lib\site-packages\psyco\support.py
+200 File Copy: C:\Python25\Lib\site-packages\psyco\_psyco.pyd
+200 File Copy: C:\Python25\Lib\site-packages\psyco\__init__.py
+200 File Copy: C:\Python25\Lib\site-packages\psyco\__init__.pyc
+200 File Copy: C:\Python25\Lib\site-packages\psyco\support.pyc
+200 File Copy: C:\Python25\Lib\site-packages\psyco\profiler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\psyco\logger.pyc
+200 File Copy: C:\Python25\Lib\site-packages\psyco\kdictproxy.pyc
+200 File Copy: C:\Python25\Lib\site-packages\psyco\core.pyc
+200 File Copy: C:\Python25\Lib\site-packages\psyco\classes.pyc
+200 File Copy: C:\Python25\Lib\site-packages\psyco\__init__.pyo
+200 File Copy: C:\Python25\Lib\site-packages\psyco\support.pyo
+200 File Copy: C:\Python25\Lib\site-packages\psyco\profiler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\psyco\logger.pyo
+200 File Copy: C:\Python25\Lib\site-packages\psyco\kdictproxy.pyo
+200 File Copy: C:\Python25\Lib\site-packages\psyco\core.pyo
+200 File Copy: C:\Python25\Lib\site-packages\psyco\classes.pyo

@@ -1,0 +1,394 @@
+*** Installation started 2007/08/31 09:08 ***
+Source: Z:\@myFiles\Python mod_python\mod_python-3.3.1.win32-py2.5-Apache2.2.exe
+999 Root Key: HKEY_CURRENT_USER
+020 Reg DB Key: [Software\Microsoft\Windows\CurrentVersion\Uninstall]mod_python-py2.5
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]DisplayName=Python 2.5 mod_python-3.3.1
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]UninstallString="C:\Python25\Removemod_python.exe" -u "C:\Python25\mod_python-wininst.log"
+200 File Copy: C:\Python25\Lib\site-packages\mod_python-3.3.1-py2.5.egg-info
+200 File Copy: C:\Python25\Lib\site-packages\mod_python_so.pyd
+100 Made Dir: C:\Python25\Lib\site-packages\mod_python
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\_psp.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyc
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyo
+300 Run Script: [python25.dll]C:\Python25\Scripts\win32_postinstall.py
+*** Installation finished 2007/08/31 09:09 ***
+*** Installation started 2007/08/31 09:26 ***
+Source: Z:\@myFiles\Python mod_python\mod_python-3.3.1.win32-py2.5-Apache2.2.exe
+999 Root Key: HKEY_CURRENT_USER
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]DisplayName=Python 2.5 mod_python-3.3.1
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]UninstallString="C:\Python25\Removemod_python.exe" -u "C:\Python25\mod_python-wininst.log"
+200 File Copy: C:\Python25\Lib\site-packages\mod_python-3.3.1-py2.5.egg-info
+200 File Copy: C:\Python25\Lib\site-packages\mod_python_so.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\_psp.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyc
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyo
+300 Run Script: [python25.dll]C:\Python25\Scripts\win32_postinstall.py
+*** Installation finished 2007/08/31 09:26 ***
+*** Installation started 2007/08/31 10:06 ***
+Source: Z:\@myFiles\Python mod_python\mod_python-3.3.1.win32-py2.5-Apache2.2.exe
+999 Root Key: HKEY_CURRENT_USER
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]DisplayName=Python 2.5 mod_python-3.3.1
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]UninstallString="C:\Python25\Removemod_python.exe" -u "C:\Python25\mod_python-wininst.log"
+200 File Copy: C:\Python25\Lib\site-packages\mod_python-3.3.1-py2.5.egg-info
+200 File Copy: C:\Python25\Lib\site-packages\mod_python_so.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\_psp.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyc
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyo
+300 Run Script: [python25.dll]C:\Python25\Scripts\win32_postinstall.py
+*** Installation finished 2007/08/31 10:06 ***
+*** Installation started 2007/08/31 10:34 ***
+Source: Z:\#tDisk\Tools\Apache 2.2.4 (win32)\Python mod_python\mod_python-3.3.1.win32-py2.5-Apache2.2.exe
+999 Root Key: HKEY_CURRENT_USER
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]DisplayName=Python 2.5 mod_python-3.3.1
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]UninstallString="C:\Python25\Removemod_python.exe" -u "C:\Python25\mod_python-wininst.log"
+200 File Copy: C:\Python25\Lib\site-packages\mod_python-3.3.1-py2.5.egg-info
+200 File Copy: C:\Python25\Lib\site-packages\mod_python_so.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\_psp.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyc
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyo
+300 Run Script: [python25.dll]C:\Python25\Scripts\win32_postinstall.py
+*** Installation finished 2007/08/31 10:34 ***
+*** Installation started 2007/08/31 10:42 ***
+Source: Z:\#tDisk\Tools\Apache 2.2.4 (win32)\Python mod_python\mod_python-3.3.1.win32-py2.5-Apache2.2.exe
+999 Root Key: HKEY_CURRENT_USER
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]DisplayName=Python 2.5 mod_python-3.3.1
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]UninstallString="C:\Python25\Removemod_python.exe" -u "C:\Python25\mod_python-wininst.log"
+200 File Copy: C:\Python25\Lib\site-packages\mod_python-3.3.1-py2.5.egg-info
+200 File Copy: C:\Python25\Lib\site-packages\mod_python_so.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\_psp.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyc
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyo
+300 Run Script: [python25.dll]C:\Python25\Scripts\win32_postinstall.py
+*** Installation finished 2007/08/31 10:42 ***
+*** Installation started 2007/08/31 10:46 ***
+Source: Z:\#tDisk\Tools\Apache 2.0.59 for Win32\Python mod_python\mod_python-3.3.1.win32-py2.5-Apache2.0.exe
+999 Root Key: HKEY_CURRENT_USER
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]DisplayName=Python 2.5 mod_python-3.3.1
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]UninstallString="C:\Python25\Removemod_python.exe" -u "C:\Python25\mod_python-wininst.log"
+200 File Copy: C:\Python25\Lib\site-packages\mod_python-3.3.1-py2.5.egg-info
+200 File Copy: C:\Python25\Lib\site-packages\mod_python_so.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\_psp.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyc
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyo
+300 Run Script: [python25.dll]C:\Python25\Scripts\win32_postinstall.py
+*** Installation finished 2007/08/31 10:46 ***
+*** Installation started 2007/08/31 10:52 ***
+Source: Z:\#tDisk\Tools\Apache 2.2.4 (win32)\Python mod_python\older\mod_python-3.3.0b.win32-py2.5-Apache2.2.exe
+999 Root Key: HKEY_CURRENT_USER
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]DisplayName=Python 2.5 mod_python-3.3.0b
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]UninstallString="C:\Python25\Removemod_python.exe" -u "C:\Python25\mod_python-wininst.log"
+200 File Copy: C:\Python25\Lib\site-packages\mod_python-3.3.0b-py2.5.egg-info
+200 File Copy: C:\Python25\Lib\site-packages\mod_python_so.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\_psp.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyc
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyo
+300 Run Script: [python25.dll]C:\Python25\Scripts\win32_postinstall.py
+*** Installation finished 2007/08/31 10:52 ***
+*** Installation started 2007/08/31 10:54 ***
+Source: Z:\#tDisk\Tools\Apache 2.2.4 (win32)\Python mod_python\mod_python-3.3.1.win32-py2.5-Apache2.2.exe
+999 Root Key: HKEY_CURRENT_USER
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]DisplayName=Python 2.5 mod_python-3.3.1
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\mod_python-py2.5]UninstallString="C:\Python25\Removemod_python.exe" -u "C:\Python25\mod_python-wininst.log"
+200 File Copy: C:\Python25\Lib\site-packages\mod_python-3.3.1-py2.5.egg-info
+200 File Copy: C:\Python25\Lib\site-packages\mod_python_so.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.py
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\_psp.pyd
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.py
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyc
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyc
+200 File Copy: C:\Python25\Scripts\win32_postinstall.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\__init__.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\util.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\testhandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Session.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\python22.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\publisher.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\psp.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\importer.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\Cookie.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cgihandler.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\cache.pyo
+200 File Copy: C:\Python25\Lib\site-packages\mod_python\apache.pyo
+300 Run Script: [python25.dll]C:\Python25\Scripts\win32_postinstall.py
+*** Installation finished 2007/08/31 10:55 ***
